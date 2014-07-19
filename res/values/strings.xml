@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WifiRecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="Record">Wifi記錄器</string>
+    <string name="btnRefresh">Refresh</string>
+    <string name="btnRecord">Record</string>
+    <string name="btnExit">Exit</string>
+    <string name="time">Time:</string>
+
+</resources>
